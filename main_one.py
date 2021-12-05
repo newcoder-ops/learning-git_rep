@@ -1,1 +1,1 @@
-print("Hello, World")
+print("Spanish Inquisition says Hello, World")
